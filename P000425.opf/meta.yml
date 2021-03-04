@@ -1,15 +1,16 @@
-id: opecha:P000425
+id: P000425
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ5668
   title: བདེ་མཆོག་ལཱུ་ཨི་པའི་ལུགས་ཀྱི་བསྐྱེད་རྫོགས་དམར་ཁྲིད
-  volume:
+  author: ''
+  volumes:
     dbf553b02eff4b56a776b63effbb9fca:
       image_group_id: I1KG1243
       title: Volume 1 of bde mchog lU i pa'i lugs kyi bskyed rdzogs dmar khrid
       volume_number: 1
       total_pages: 352
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བདེ་མཆོག་ལཱུ་ཨི་པའི་ལུགས་ཀྱི་བསྐྱེད་རྫོགས་དམར་ཁྲིད
   author: ''
